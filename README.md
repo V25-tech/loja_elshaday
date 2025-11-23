@@ -42,7 +42,7 @@ Este repositório contém os scripts SQL e documentos utilizados para criação 
 ### Consulta 6 – Exemplo adicional
 ![Consulta 6](prints/2025-11-22%20(6).png)
 
----
+GITHUB >https://github.com/ V25-tech/loja_elshaday.
 
 ## 🛠️ Ambiente
 
